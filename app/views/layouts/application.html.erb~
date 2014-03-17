@@ -1,3 +1,4 @@
+<% provide(:title, 'Foo') %>
 <!DOCTYPE html>
 <html>
 <head>
